@@ -1,0 +1,2 @@
+# fashion_item_classifier
+fashion_item_classifier
